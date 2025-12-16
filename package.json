@@ -1,0 +1,23 @@
+{
+  "name": "express-16-12",
+  "version": "1.0.0",
+  "description": "express assignment",
+  "keywords": [
+    "express"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhanase731"
+  },
+  "license": "ISC",
+  "author": "Dhanaseelan Manikandan",
+  "type": "commonjs",
+  "main": "express",
+  "scripts": {
+    "test": "express"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
